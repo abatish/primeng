@@ -74,7 +74,7 @@
     width: 12.5em;
     padding: .25em;
     position:absolute;
-    margin: 0; 
+    margin: 0;
     text-decoration:none;
     list-style:none;
 }
@@ -124,9 +124,9 @@
     text-indent: -9999999px;
 }
 
-.ui-menubar:not(.ui-megamenu-vertical) .ui-menubar-root-list > .ui-menu-separator:before {
+/*.ui-menubar:not(.ui-megamenu-vertical) .ui-menubar-root-list > .ui-menu-separator:before {
     content: 'ui-menu-separator';
-}
+}*/
 
 .ui-menubar .ui-menu-child .ui-menuitem {
     width: 100%;
@@ -140,7 +140,7 @@
 .ui-menubar .ui-menubar-options {
     float: right;
 }
-           
+
 /** SlideMenu **/
 .ui-slidemenu .ui-slidemenu-wrapper {
     position: relative;
